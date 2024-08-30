@@ -1,0 +1,274 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "C, Q, K Sound and Spellings",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which letter makes the 'kuh' sound in 'Cat'?",
+          "options": [
+            "C",
+            "U",
+            "T",
+            "None of the above"
+          ],
+          "answer": 0,
+          "explanation": "In 'cat', the letter C makes the 'kuh' sound."
+        },
+        {
+          "questionNo": 2,
+          "question": "What sound does Q always make?",
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ],
+       
+          "answer": 1,
+          "explanation": "Q always makes the 'kwuh' sound, like in 'queen' or 'quick'."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which word starts with a K sound?",
+          "options": [
+            {
+              "text": "",
+              "image": "./assests/images/city.png",
+              "sound": "./assests/sounds/city.mp3"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/cent.png",
+              "sound": "./assests/sounds/cent.mp3"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/candle.png",
+              "sound": "./assests/sounds/candle.mp3"
+            },
+            {
+              "text": "",
+              "image": "./assests/images/cycle.png",
+              "sound": "./assests/sounds/cycle.mp3"
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Candle' starts with the K sound 'kuh'."
+        },
+        {
+          "questionNo": 4,
+          "question": "Hear the word  and fill in the blank to complete the spelling: <br> _ _H_OL",
+          "questionSound":"./assests/sounds/school.mp3",
+          "options": [
+            "S, C, O",
+            "S, O, C",
+            "C, O, S"
+          ],
+          "answer": 0,
+          "explanation": "The complete word is 'School' and is spelled as S-C-H-O-O-L."
+        },
+        {
+          "questionNo": 5,
+          "question": "In the word 'cake', what sound does C make?",
+         "options": [
+            "./assests/sounds/sss.mp3",
+            "./assests/sounds/kuh.mp3",
+            "./assests/sounds/kwuh.mp3",
+            "./assests/sounds/tuh.mp3"
+          ],
+          "answer": 1,
+          "explanation": "In 'cake', C makes the hard 'kuh' sound."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which letter is always followed by U?",
+          "options": [
+            "C",
+            "K",
+            "Q",
+            "T"
+          ],
+          "answer": 2,
+          "explanation": "Q is always followed by U in English words. In the word 'Queen', it sounds like the letter 'U' follows the 'Q.'"
+        },
+        {
+          "questionNo": 7,
+          "question": "What's the missing letter in '_ueen'?",
+          "options": [
+            "C",
+            "K",
+            "Q",
+            "G"
+          ],
+          "answer": 2,
+          "explanation": "'Queen' is spelled with Q at the beginning."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which word has a soft C sound /sss/?",
+          "questionSound":"./assests/sounds/sss.mp3",
+
+          "options": [
+            "Cat",
+            "Cup",
+            "Cow",
+            "City"
+          ],
+          "answer": 3,
+          "explanation": "In 'City', C makes a soft 'sss' sound."
+        },
+        {
+          "questionNo": 9,
+          "question": "Hear the word and choose the first letter of the word: 'Kangaroo'",
+          "questionSound":"./assests/sounds/kangaroo.mp3",
+
+          "options": [
+            "C",
+            "K",
+            "Q",
+            "G"
+          ],
+          "answer": 1,
+          "explanation": "'Kangaroo' starts with the letter K."
+          
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word has the same beginning sound as 'quick'?",
+          "options": [
+            "King",
+            "Car",
+            "Goat",
+            "Quiz"
+          ],
+          "answer": 3,
+          "explanation": "Both 'quick' and 'quiz' start with the 'kwuh' sound."
+        },
+        {
+          "questionNo": 11,
+          "question": "In 'ice cream', what sound does C make?",
+          "options": [
+            "\"kuh\" and \"sss\"",
+            "\"sss\" and \"kuh\"",
+            "\"kuh\" and \"kuh\"",
+            "\"sss\" and \"sss\""
+          ],
+          "answer": 1,
+          "explanation": "In 'ice', C makes a soft 'sss' sound, and in 'cream', it makes a hard 'kuh' sound."
+        },
+        {
+          "questionNo": 12,
+          "question": "Pick the odd one out:",
+          "options": [
+            "Kite",
+            "King",
+            "Koala",
+            "Queen"
+          ],
+          "answer": 3,
+          "explanation": "'Queen' starts with Q, while the others start with K."
+        },
+        {
+          "questionNo": 13,
+          "question": "What's the missing letter in '_uick'?",
+          "options": [
+            "Q",
+            "C",
+            "K",
+            "G"
+          ],
+          "answer": 0,
+          "explanation": "'Quick' is spelled with Q at the beginning."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word has a K sound but doesn't start with K?",
+          "options": [
+            "Kite",
+            "Cat",
+            "City",
+            "Key"
+          ],
+          "answer": 1,
+          "explanation": "'Cat' has a K sound but starts with C."
+        },
+        {
+          "questionNo": 15,
+          "question": "In 'cent', what sound does C make?",
+          "options": [
+            "\"kuh\"",
+            "\"sss\"",
+            "\"ch\"",
+            "\"f\""
+          ],
+          "answer": 1,
+          "explanation": "In 'cent', C makes a soft 'sss' sound."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word starts with the same sound as 'king'?",
+          "options": [
+            "Queen",
+            "Call",
+            "Goat",
+            "Fish"
+          ],
+          "answer": 1,
+          "explanation": "Both 'king' and 'call' start with the 'kuh' sound."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word has a different first sound?",
+          "options": [
+            "Kite",
+            "Cat",
+            "Koala",
+            "Quit"
+          ],
+          "answer": 3,
+          "explanation": "'Quit' starts with 'kwuh', while the others start with 'kuh'."
+        },
+        {
+          "questionNo": 18,
+          "question": "In 'circle', what sound does C make?",
+          "options": [
+            "\"sss\"",
+            "\"kuh\"",
+            "\"ch\"",
+            "\"f\""
+          ],
+          "answer": 0,
+          "explanation": "In 'circle', the first C makes a soft 'sss' sound."
+       },
+        {
+          "questionNo": 19,
+          "question": "Hear the word and choose the first letter of the word: 'Quiet'",
+          "questionSound":"./assests/sounds/quiet.mp3",
+
+          "options": [
+            "K",
+            "C",
+            "Q",
+            "G"
+          ],
+          "answer": 2,
+          "explanation": "The word 'Quiet' starts with the letter 'Q'. It sounds like /Kwu/."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word has two C sounds?",
+          "options": [
+            "Cake",
+            "Circle",
+            "Cat",
+            "Queen"
+          ],
+          "answer": 1,
+          "explanation": "'Circle' has two C sounds - soft /sss/ at the beginning and hard /k/ in the middle."
+        }
+      ]
+    }
+  ]
+}
